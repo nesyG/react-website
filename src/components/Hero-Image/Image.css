@@ -1,0 +1,11 @@
+.hero-image-container {
+   padding: 2rem;
+   width: 40%;
+   height: auto;
+}
+
+.hero-image {
+   width: 80%;
+   height: 85%;
+}
+

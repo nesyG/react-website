@@ -1,0 +1,45 @@
+.main-container {
+    padding: 2rem;
+   width: 50%;
+   height: 100vh;
+}
+
+.footer-container {
+    display: flex;
+    align-items: center;
+    margin: 0 11rem;
+}
+
+.footer-imgs {
+    width: 100%;
+    height: 90%;
+    padding: .8rem 1rem;
+    margin: 0 .5rem;
+}
+
+.text-content {
+    height: 70vh
+}
+
+.h1-text {
+    font-size: 5rem;
+    word-break:keep-all;
+    padding: 1rem 11rem;
+}
+
+.lorem-text {
+    font-size: 1.3rem;
+    overflow-wrap: break-word;
+    line-height: 2rem;
+    padding: 1rem 11rem;
+}
+
+.btn-learn-container {
+    margin: 0 11rem;
+    padding: .8rem 2.2rem;
+    border: 80%;
+    font-size: 1rem;
+    font-weight: 500;
+    background-color: rgb(34, 31, 31);
+    color: white;
+}

@@ -1,0 +1,35 @@
+.header-container {
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation-container {
+    display: flex;
+    flex-grow: 2;
+    width: 30vw;
+    list-style: none;
+}
+
+.login-container {
+    display: flex;
+    flex-grow: 1;
+    justify-content: flex-end;
+    margin-right: 2rem;
+}
+
+.list-items {
+    padding: 1em;
+   
+}
+
+.header-text {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-left: 1rem;
+}
+
+.login-btn {
+    padding: 1rem;
+    margin-right: 1.5rem;
+}
