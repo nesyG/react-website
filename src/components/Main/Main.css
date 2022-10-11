@@ -1,4 +1,5 @@
 .main-container {
+    position: relative;
     padding: 2rem;
    width: 50%;
    height: 100vh;
@@ -36,10 +37,16 @@
 
 .btn-learn-container {
     margin: 0 11rem;
-    padding: .8rem 2.2rem;
-    border: 80%;
+    padding: 1rem 2.2rem;
+    border: 1px solid rgb(53, 49, 49);
+    border-radius: 1rem;
     font-size: 1rem;
     font-weight: 500;
     background-color: rgb(34, 31, 31);
     color: white;
+}
+
+.btn-learn-hover {
+    background-color: rgba(124, 123, 123, 0.651);
+    color: rgb(39, 35, 35);
 }
